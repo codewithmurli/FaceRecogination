@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609180536716",
+    "project_id": "face-recogination-b46f1",
+    "storage_bucket": "face-recogination-b46f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609180536716:android:c2b52572b40feca60f10a9",
+        "android_client_info": {
+          "package_name": "com.codewithmurli.face_recogination"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUDaRPa_U3sW-wyGN7-EH54r8e689FZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
